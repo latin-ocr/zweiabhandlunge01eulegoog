@@ -1,0 +1,57 @@
+Grundzflge (1666611161661166 Trigonometrie. 33
+
+Die Ausdrtioke 1111· die Ootg der gesuchten Winkel sind etwas
+bequemer, so dass die folgenden drei Gleiohungen die Auf-
+16s'ung unserer Aufgabe enthalten:
+
+cosa = oosAsinb sino 1- cosb 6666,
+
+sinc etgb- cosc cosA
+sinA
+
+sin b ctgc - eosbcosA·
+sinA
+
+eth=
+
+ctg0=
+
+Zusatz 1.
+
+56. Da oosb cose = {00³sp - 6) -1- {coest} -1- c) und
+sinb sinc = {cos [b - ο) -1666(ὂ -1- 6) ist, so kann der
+Cos (16186116 a auch auf folgende Art ausgedrflekt werden:
+
+66266161661666616-1οοε1Α-ὸ-ο)
+-666616666666666). ·
+
+Zusatz 2.
+
+57. Fur die logarithmisohe Rechnung ist flbrigens (11666
+Formel noch unbequemer als dio ursprflngliche. Indessen kann
+man (11666 16161666 zur Rechnung mit Logarithmen geeignet
+maohen durch Einfuhrung eines Winkels u mittola (1666161-
+
+mAmb
+
+nutzung des so zfofiebstimmenden Winkels u wird:
+
+chung tg u = oder tgu = cosA tgb; mit Be-
+
+cos b 666(6 - u)
+
+eosa=tgueosbsinc÷cosbeos0= ww ,
+
+so dass nunmehr alles sm· dio logarithmische Reohnung der
+Seite a sehr hequem ist.
+
+Zusatz 3.
+
+58. Derselbe Winkel u, zu bestimmen aus tgu = cossim,
+macht auch die Gloichung fflr don Winkel B zur Rechnung
+mit Logarithmen geeigneter3 es wi1·d .
+
+Ostwald's Klassiker. 73. 3
+
+ 
+

@@ -1,0 +1,60 @@
+Allgemeine ephbrinebe Trigonometrie. 43
+
+und dieee Gleiehnng liefert einen Winkel Α ansgedrbekt in
+den zwei Seiten a und b (ven denen die eine die Gegenseite
+jenes Winkeln iet) und dem von beiden eingeeehloseenen
+Winkel Ο, Dnreh enteprenbende Vertnneehnng der Bnehetnben
+erhilt mnn die nnnloge Formel 1111 den zweiten Winkel B:
+
+eeebsina—sinbeoeaeon
+
+⁰th Ξ sin b einO
+ξ 7. Wenn mnn endereeits die drei Glieder, aue denen
+sieh die in der Uebersehrifb ebehende Gleiebung zusammen-
+
+· eetnt, der Reihe nach mit den einander gleinhen Werbhen
+
+einO einB einA
+
+ffi, §fn-b, ὦ multiplieirt, so enteteht die Gleiehnng:
+
+mAmO=mamB-mbmdm0 mr
+mAmO†ffiAmOwb
+ΜΒ
+
+{nd’edumh Vertaueehung von B mit 0 nnd gleichzeitig von
+1111 c:
+
+cosa =
+
+wAmB†fflAmBme
+
+eona = W— oder
+
+eoeaein0= eoeAeinB-}- einAeoeBeoe03
+diese Gleiehung weieht von der Ausgangeformel nur (111111 ab, ·
+dass grosse Bnehetaben an stelle der kleinen und umgekehrt
+
+etehen, wbhrend zngleieh alle in jener vorkommenden One
+’ negativ nn nehmen sind.
+
+§8 Dividirt man in der nuletzt erhaltenen Gleiehung
+die linke Seite durch 1111111110, die reehte durch das (11111111
+gleiehe einA ein c, so enteteht die Gleiehung:
+mAmB†mAmBmc
+
+mAme
+
+ctga =
+
+mit deren Hblse man die Seite a finden kann, wenn die nwei
+Winkel A, B (von denen der eine der Gegenwinkel jener
+Seite iet) und die zwisehen beiden liegende Seite c gegeben
+sind. Die entspreehende Gleichung 1111 b lautet:
+
+meA÷mbch
+
+mgb Ξ sinBeine
+
+ 
+

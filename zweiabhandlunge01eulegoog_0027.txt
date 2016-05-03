@@ -1,0 +1,49 @@
+Grundzllgo der sphiirlsehen Trigonometrie. 23 , ,
+
+gegebenon Dreieeks in den gleichnamigen Eoken, und werden
+die Seiten AB = c, Ao= b, Bo= a gesem, so ent-
+spreehen sich die in der vorigen Figur und die in der jetzigen
+angewandten Bezeiohnungen in folgendet Weise:
+
+frflhore Bezeichnung: a, x, 33 y, α, φ
+jetzige Bezeichnung: c, b, a3 A, B, 0.
+
+Die in den Zusittzen zur letzten Aufgabe gesundenen Formeln
+11130020121111 affl? fur das sphssrisohe Dreieok ΑΒΘ dio folgenden
+
+I. sina:sinA = sinb:sinB = sinozsin0‚ nach §21.
+
+00³0:ooscsinAsinB-cosAcosB‚ nach §2st
+II. =cosB=cosbsinAsi10—002A00⁸0, nach Analogie. Ι
+cosA=cosa sinBsinO-oosBeosO‚ nach §n
+
+oosc :cose sin a sinb -ἱ- cosacosb , nach Analogia.
+Ill. Ιοοεό = cosB sina sino -{- cosa cose , nach ξ. 22.
+
+cosa :eosAsinb sinc÷oosbooso , nach 526.
+
+sinath-sinBtgc:cosaoothgOtgo‚ naoh ξ 23. ι
+IV. sinbtgA-sinotga=00sboos0tgAtga, naohAnalogie.
+sineth-sinAtgb=cosceosAthtgb, nach ξ 19.
+
+Diese vier Formeln euthalten in der That alle Gleiehungen‚
+die wir bei der vorigen Aufgabe HI ausgestent haben.
+
+Zusatz 1.
+
+31. Die erate Gleichung drflokt die allgemein bekannte
+Eigenschaft aller spharisohen Dreieeke aus, dass die Sin dor
+Seiten in demselben Verbaltniss zu einander stolum, wie die
+Sin del· gegenubquiegenden Winkel.
+
+Zusatz 2.
+
+32. Wenn also in einem spharisohen Droieck eine Seite
+und ihr Gegenwinkel, und ausserdem noch eine Seite, oder
+noch ein Winkel bekannt sind, so erhsslt man mit Hfllfe dieses
+
+Satzos sofort den Gegenwinkel dieser Seite oder dio Gegenseite
+dieses Winkels.
+
+ 
+

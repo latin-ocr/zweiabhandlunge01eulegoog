@@ -1,0 +1,50 @@
+L. Euler.
+
+Zueetz 3.
+
+’ 33. Jede den· sneben aufgestellten Formeln enthelt nur
+vjer der dem Dreienk angeherenden Stfleke3 wenn drei dieser
+Stnnke gegeben sind, so kann also nus der enteprenhenden
+Gleiehung das vierte bestimmt werden.
+
+Zusetn 4.
+
+34. Es mnssen sieh also demit die Regeln zn1·Anf16snng
+aller sphenisnhen Dreieeke aufstellen leesen. Das Dreienk
+enthnlt nun senhs Sumne, nnmlieh die drei Seiten und die
+drei Winkel; wenn drei davon bekannt sind, so mnesen sich
+die drei nbnigen bereehnen hussen, wie in den folgenden Auf-
+gaben nn neigen sein wind.
+
+Aufgebe VL
+
+Fign. 35. In einem npknnnsohen Dreieck sind die dren' Seiten
+gegeben, man noll die Winkel bestimmen.
+
+Auflneung.
+A
+Die drei gegebenen Seiten seien z
+AB=0‚ A0=b‚ undBO=a3
+znr Bestimmnng der drei Winkel A,
+
+B, Oetehen die Gleiehungen 111 zu
+Gebnt, die liesern:
+
+3 a θ
+Fig. 4.
+
+b
+
+GOSA - cosa—eosbeosc
+“ sinbsine
+
+ΜΒ- eosb-eosaeoec
+snna snnc
+
+eos c - noea eosb
+sina sinb ’
+
+eosO =
+
+ 
+

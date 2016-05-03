@@ -1,0 +1,59 @@
+48 L. Euler.
+
+bezeichnen, wnhrend a undb die Katheten sind, sn erhfllt man
+ane den bisher entwiekelten Formeln, mit eon=0 und
+einC = 1, nnmittelber die eeehe folgenden:
+cos e = noea eoeb
+eos e = etgA 0th
+sina=sineeinA und sinb=einesinB
+tgb=tgeeosA n tga=tgeeosB
+tga=tgAsinb n tgb=theina
+eosA=eesaeinB e eoeB=eosbsinA.
+
+ξ 19. Wenn men, wie genehnlieh, legarithmieeh reehnen
+will, so het men aue den Formeln der frflhern Peregrnphen
+
+andre, in Produetfonm fibergefflhrte abzuleiten, was dnreh ς
+gewiese Umformungen, die auf die halben Winkel und halben 1
+
+Seiten fflhren, leieht meglieh ist, wie die folgenden Para· ³
+grephen zeigen. ι
+
+Enete Umformung.k
+
+ξ 20. Ans der ersten Formel
+
+A noea—eeebeoee
+eosA = -——-·---*--— enhiilt man
+
+sinb sin e
+
+nnmittelbnr:
+
+1 Α-οοε(ὂ-ο)-οοεα
+— ⁰⁰8 ’“ ’ἶῖήό sinc ----
+
+cosa—eessp-l-e).
+sinbsine ’
+
+1†mA=
+
+dn nun Q = tg²13A ist, so wird also:
+
+1÷coeA
+
+tg¹÷A=cos(b—e)-eosa
+
+ensa—cos(b-{-e)'
+Erinnert men eieh fernen, dese
+
+eos p - eosq = 2 sin 9-ἶέ sinffl iet, so erhnlt man:
+
+2 2
+
+sinsssin⁰43’⁰
+&¹4² sin'⁰†⁶†⁰sin⁰÷b†⁰⁸
+2 2 ’
+
+ 
+

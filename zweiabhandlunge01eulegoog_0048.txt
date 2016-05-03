@@ -1,0 +1,53 @@
+44 L. Euler.
+
+59. Selbsi der Fau, dass aus den drei gegebenen
+Winkeln die Seiten gesueht werden, lessi sieh leieht von der
+an der Spitze dieses Absehnitts stehenden Fermel ausgehend
+behandeln. Diese Gleiehung
+
+eosAsine = eesasinb — sinaeosbeoso
+liefert dureh Verteusehung von A und B
+eosBsine =eesb sina- sini eosaees0;
+
+wenn die zweite Gleiehung‚ neeh Durehmultiplieetion mit
+ees 0, zur ersten adeirt wird, so erhilt man:
+
+sine(eesA -Ι- eosB ees 0) = eose einh sirr’ Ο, oder da
+
+sinb sin 0 = sinB sine iet:
+eos A -{- ees B eos 0 = eos a sin B ein 0. oder endlieh
+eeeA = -eosBeosO-i-sinBsinOeosa.
+
+Verteusehi man A und 0, wehrend B an seiner Stelle bloiet,
+se wird ferner noeh:
+
+m0=-mBmA†fflBmAffie
+
+und dies sind die gesuehien Gleiehungen. Die letzie folgt
+eueh wieder eus der dritten Hauptformel:
+
+eose=eesaeesb-i-sinasinbeosO,
+
+wenn men in dieser die gressen und kleinen Buehsteben ver-
+taueehi und alle Ges negativ nimmt.
+
+Benutzung der Formel:
+eeec=eoeaeosb -Ι- sinasinbeosO.
+
+ξ 10. Diese Formel lessi unmittelbar einen doppelten
+
+Gebreueh ru; in dem Falle nimlieh‚ dass aus den drei ge· ’
+gebenen Seiten a, b‚c die Winkel aufzusuehen sind, het men: i
+
+mO-ww-wwww,
+” mamb '
+
+wenn man degegen eus zwei Seiten a, b und dem zwisehen-
+liegenden Winkel 0 die dritte Seite zu bestimmen hat, so
+
+wendet men die Gleiehung in ihrer urspringliehen Forrn en: ¹
+
+eeso=eeeaeosb† sinasinbeesO.
+
+ 
+

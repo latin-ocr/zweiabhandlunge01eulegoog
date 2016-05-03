@@ -1,0 +1,55 @@
+L. Euler.
+
+Aufgessbe x,
+
+Fig-4· 63. In einem spharisohen Dreieck sind bekannt zwei
+Seiten und der Geqenwinhel der omem oder zwei Winkel
+und die Geqenseite des einen. Man soll die ubriyen Stacke
+des Dreieoks bestimmten.
+
+Auflfisu'ng.
+
+Α lmDreieckABO seien im ersten ἰ
+Fall gegeben die zwei Seiten B0=a ἶ
+und Ao: b, sowie der Winkel A, ¹
+der Gegenwinkel von a. Es orgiobt ᾗ
+sich dann sofort der Winkel B, der ᾗ
+
+Gegenwinkel der zweiten gegebenen ὲ
+
+B ⁵ α e Seite, aus sin Β -- Q sin b.
+F1g. 4. sma
+
+Im zweiten Falla seien A und Β
+die gegebenen Winkel‚ 130: a die gegebene⁸ Seit03 man er·
+halt daun zunitohst die Seite b aus sin b = ἓξὲξ sin Β.
+
+Im einen und andern Fall kann man also als gegebene
+Stfloke ansehen die zwei Seiten 130: a und A0= h, so-
+wie die ihnen gegenflberliegenden Winkel A und B; man
+ξέιὺῖιὶιὲθξιίιθθῗη Stflcken die Seite ΑΒ = ο und den Winkel 0
+
+Die erate Formel der Gruppe IV liofert:
+sinath——sinBtgc :cosa cothgOth,
+
+und also auch, mit Vertauschung der seiten a und b und
+
+gleichzeitig der Winkel A und Β :
+sinbth-sinAtgo=00sb00sAthtgc.
+
+Eliminirt man aus beiden Gleichungon das eine mal tg Ο, ³
+
+das andere mal th, so erhstlt man:
+
+sinA sina — sin B sinb
+th = 7—-—--.···‚—- und
+sm A cos B cosa - eos A s1anosb
+
+·'th= sinAsina-sinBsinb .
+cosB cosa sinb — cosA sin a eos!
+
+Und diesen Gleichungen ist noch hinzuzufflgen:
+, ' sinAsinb= sinBsina.
+
+ 
+

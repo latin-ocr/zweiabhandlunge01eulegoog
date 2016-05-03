@@ -1,0 +1,54 @@
+Grundzflge der sphfirischen Trigonometrie. 7
+
+Man hat ailso zwisehen x und y eine Boziehung aufzustellen
+derart, dass, wenn ihnen bestimmte Werthe ΑΡ und PM ge-
+
+' geben worden, das Integral s V(dy)¹ ÷ (dx eosq)⁸ den kleinsten
+mbgliohen Werth erhalte.
+Es sei (ἔῃ-τμη, um das Integral auf die Form
+
+sdx W zu bringen. Das Integral s Z dx, wo Z
+eine solohe Function von cc, y und p ist, dass dZ = M dx
+
+-Ι- N dy 4- Pdp gesetzt werdon kann, nimmt nun, wie ioh
+gezeigt habe, seinen grossten oder kleinsten Werth an, wenn
+N dx — dP=0 ist. In anserem Fall ist
+
+hm,
+
+also
+d y siny eosy ...Μῃ-
+
+dZ=-———-
+
+W& VW’
+und demnaeh
+
+M=0‚N=-³i¹¹⁹⁰⁰⁵²¹ με’-ὲ,
+Vp' -Ι- cos* y ’ Vp* -Ι- cos'y
+
+Es ist also dZ = N dy -Ι- Pdp zu setzen3 multiplioirt man
+{lli} ElelijeglssngssNdx -dP = 0 mit p, so erhilt man, da
+
+Ndyfde=0 oder Ndy=de3
+
+³⁰t²t3¹4¹1²¹¹ diesen Werth fflr N dy in den Ausdruck fnr dZ,
+so w1r
+
+dZ=de÷Pdp,
+
+, somit durch Integration:
+
+Z: Pp -Ι- 0, oder also
+
+VW-y- = ν-β-...ἷὲ-ο-οεῖῃ ÷ 0, einfaehor:
+
+oos'y = OVP-lT-oos'} .
+Hieraus folgt:
+0²10* = oos'y(cos²y — 0⁸) oder
+
+dy oosyVWTO'
+P²R² ο ’
+
+ 
+

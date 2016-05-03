@@ -1,0 +1,59 @@
+Grundzflge der apharisehen Trigonometrie. 17
+Q
+
+c 7
+ds: dxsinx ι
+Vsin'z-O'
+
+Duroh die Integration erhult man also‘:
+
+wegen ds =
+
+y=—aresin—Q:÷aresin ΟΜΝ
+
+sinam-0² sinaVs-Iffi
+
+Vffin' ω - 0² Vsin¹ a -- θ’
+= - 81⁸0 008 †—=- -Ι- {21⁸0 008 ··—···=:=. ‚
+smum-0¹ smaVl-O'
+
+Vsin'oe — 0² Vsin¹a - 0²
+s=—-arocos -Ι- urceos—affi-
+
+m* V1-02
+
+, cosm , cosa
+=-aros1n --.,-- -Ι- a1·cs1n-—..= ·
+
+V1-(3¹ V1-02’
+
+die reehts hinzugefflgten Constanten sind so gownhlt, dass x = a
+wird mit y=0 und s=0. Wenn in beiden Gleiehungen
+gffitbffin Are dor reohten Seite vereinigt werden, so or-
+
+. OcosaVsin22-02-Ocossziffla—o'
+
+y=ares1n (1—0') gina 3111oe ’
+
+. oosaVsin²oe- 0²—cosx sim-0²
+,8:210 s1n--—---l-:-55-——-——-—-
+
+(1-0²)sinasinxsiny=oeosaVsTffi-—cffi-ooosoeVffl,
+(1-O²)sins :cosam—eoseum.
+
+Mit Benu'tzung der Oos von y und von s wird:
+
+oder:
+
+(1 — ΟΞ) sina since cosy= V(sin¹a-O¹)(sin¹oe—O') -Ι- 0² cosa cosm,
+
+(1—O²)00ss =V(sin'a-O')(sin²ae—0')-l-oosaoosx. ,
+
+Βοικὲιηᾶειι fur 0 wieder den oben gesundenen Werth sina sin α,
+so w1r
+
+Vffl³=-sinaoosa;
+Ostwaltl'u Klassiker. 73. 2
+
+ 
+

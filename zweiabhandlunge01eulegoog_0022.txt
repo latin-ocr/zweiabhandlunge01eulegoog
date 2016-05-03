@@ -1,0 +1,51 @@
+18 V L. Euler.
+
+der Winkel α ist hier numlich stumpf zu nahmen, damitq>
+in E spitz sei: mit y=0 wird ‹p=180⁰—a‚ ιὶιο ιοὶιι
+οοι gleich — οοι α. Damit wird aus den letzten vier Gleiehungen:
+
+(1-ιίιιάιίιιά)ιίοοιὶιιμειίιιαοοιαΫιίιιό-ιίιιάιὶιά-Ι-ιίιιαοοιαιίιιαοοιο
+
+(1-ιίιιόιὶιιά)ιίιιοοοιοπ-οοιοΝιίιιό-ιὶιιόιίιιά-Ι-ιίιιοοοιαιίιιάοοιι
+
+(1-ιὶιιόιίιιά)ιίιιι εοοιονιίιιί-ιίιιίοιὶοά-Ι-ιίιαοοιαοοιο
+
+(1-ιὶιιόιίοά)οοιι ε-ιὶιιοοοιαΥιὶιι“ο-ιὶιι”οιίιιά-Ι-οοιαοοιο;
+und diesen vier Gleiohungen ist nooh hinzuzufugen:
+
+ιίιιοιὶιιφειὶοοιίιια.
+
+Zusatz 1.
+
+18. Da sina ιὶιι α = sin ο ιίιιφ ist, so wird
+
+Vsin' ο - sin* a sin¹ = 4- sinac οοιφ
+
+und ansere vier Gleiohungen werden, wenn der Abktirzung
+halber wieder 0¹ ιιι Stella von ιὶιιά ιίιιά oder sin'oe ιίιΰφ
+gesetzt wird:
+
+I(1-O²)siny=sinaoosaoosq)-l-oosaoosoesinaep
+
+11 (140²)cosy=—oosaeos‹p÷sina00saoosxsinq>
+111 (1-οἿ sins :cosdsinxoostp-l-sinaoosacosx
+IV (1-0') οοιι =- ιὶιιοοοια ιὶιιοοοιφ -4- οοιοοοιο.
+
+Zusatz 2.
+
+19. Diese vier Gleiehungen kann man, um einfaohere
+Formeln zu erhalten, auf verschiedene Art combiniron. Nimmt
+
+man zuerst
+Ι. οοια-Ι- 11. ιίιιαοοιο,
+
+ιο erhilt man:
+
+(1 - 0²) (οοια siny -1- sina οοια οοιμ)
+= (οοι’ α -1- sin² α οοι’ ο) οοιο ιίιιφ ;
+
+da nun οοιά -Ι- ιίιιάοοιῖαε 1 — sin²a ιίιιά = 1- 0² ist,
+so wird:
+
+ 
+

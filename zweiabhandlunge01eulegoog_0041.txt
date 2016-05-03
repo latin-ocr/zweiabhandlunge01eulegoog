@@ -1,0 +1,62 @@
+Grundziige der sphiirisehen Trigonomotrie. 37
+
+Zusatz 1.
+
+64. Ans sinA:sinB=sina:sinb folgt, dass die
+ξέἰιὲὲιὲιιιςοη fflr tgo und th auch w geschrieben werden
+
+— sin* a - sin'h
+
+”“ oosB sinA eosa- eosAsinbcosb
+sin¹A - sin'B
+
+sinBcosB cosa— sinA cosA cosb'
+
+und
+
+tge
+
+tg0=
+
+Zusatz 2.
+
+65. Bequemere, besonders fflr die logarithmisohe Rech-
+nung sich besser eignende Formeln erhfilt man abor auch
+hier wieder durch Benutzung der Gleiohungen in den ἓξ 43,
+44, 53 und 54, numlioh:
+
+tg÷0=fissssssffissss3tgfla÷b)={{{{{{ssss{tg÷(a-⁶),
+
+tg÷0=fflctg÷m÷B>=}}}}{}ss—{}0tg÷(A—B)-
+
+Aufgabe XI.
+
+66. Die Oberfla'che eines beliebiqen¹ sphdrischen Drei-Fiw.
+ecks zu bestimmen.
+
+Auflsssung.
+
+Es sei EOM das
+
+gegebone Dreieck und es
+
+werden, wie oben in ξ 17,
+
+die Seite OE mit a, der ἶ
+
+Winkel OEM mit α,
+
+derWinkelEOM mity, ι
+
+die Seite OM mit x und m
+
+der Winkel OME mit A B
+‹pbezeiohnet¹ Das un· pig, 3.
+
+. endlieh schmale Dreieok
+
+M Om ist das Differential der gosuohten Dreiecksflfiohffi und
+da mn=dx und Mn=dy·sinx ist, so wird das Diffe-
+
+ 
+

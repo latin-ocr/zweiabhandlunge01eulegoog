@@ -1,0 +1,57 @@
+C
+
+11.
+Allgemeine spharisohe Trigonometrie
+
+in kurzer und durchsichtiger Entwieklung‚ von den
+einfachsten Voraussetzungon ausgehend.
+
+von
+L. Euler.
+
+ξ l. In einem beliebigen spharischen Dreieck‚ vgl. Fig. 1,
+
+‘b
+
+B
+
+seien die Winkel mit den grossen
+Buchstaben A, B, 0, die Seiten
+mit den kleinen Buchstaben a, h, c
+
+bezeichnot‚ derart, dass dem Win- ³
+e kelA die Seitea u. s. w. gogon-
+
+uberliegt. Verbindet man den
+Mittelpunkto der Kugel mit den
+Eokpunkten des Dreiecks durch
+
+Α die Geraden OA, OB, 00, 'so ³
+
+bilden diese in 0 ein Dreikant, in
+dem dio Winkel zwischen je zwei
+der genannten Geraden mit den seiten
+a, b, ο und die Neigungswinkel
+zwisohen je zwei Seitenflaohen mit den
+
+Winkeln A, B, 0 des spharisohen
+Dreieoks ubereinstimmen.
+
+Αἱ ‘² §2 Der Halbmesser 00 der
+
+Kugel sei gleich l. In den Rhenen
+
+0οα und 0οὂ (Fig. 2) werden in 0
+auf 00 dio Lothe Oa und Ob erriehtet3
+semer wird von b auf Oa das Loth hp,
+
+steht, und vonp auf Oa das Loth pq
+gafalh, endlioh die Gerade bq mogon,
+
+die Oa rechtwinklig trifft. Damit ist
+dieganzoerforderlieheFiguroonstruirt.
+
+. das auf der Ebene 0οα senkreeht 1
+
+ 
+
